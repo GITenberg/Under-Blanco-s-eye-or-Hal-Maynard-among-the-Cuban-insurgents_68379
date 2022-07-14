@@ -1,0 +1,30 @@
+_repo: Under-Blanco-s-eye-or-Hal-Maynard-among-the-Cuban-insurgents_68379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Douglas
+    gutenberg_agent_id: '54747'
+    url: http://www.gutenberg.org/2009/agents/54747
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68379'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:623036
+pgterms:marc905: 20210809103926wells
+pgterms:marc906: '1898'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :Street & Smith,1898.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Starry flag weekly; v. 1 no. 1
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Spanish-American War, 1898 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Under Blanco's eye; or, Hal Maynard among the Cuban insurgents
+url: http://www.gutenberg.org/ebooks/68379
